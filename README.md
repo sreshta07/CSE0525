@@ -61,3 +61,36 @@
 
 ## Experiment16 outputs
 ![image](https://user-images.githubusercontent.com/114796483/194252350-f9de8f7e-6cbe-4bb9-8dce-4c8e294c2ebf.png)
+
+## Experiment17 outputs
+![image](https://user-images.githubusercontent.com/114796483/194479578-7a7cddfa-8e91-42bb-b110-f6e2c7b70c8e.png)
+
+## Experiment18 outputs
+![image](https://user-images.githubusercontent.com/114796483/194479628-e405d940-dccb-4e30-b182-ebd683f44803.png)
+
+## Experiment19 outputs
+![image](https://user-images.githubusercontent.com/114796483/194479679-3823eda3-44db-420c-896f-afa91c24a8b6.png)
+
+## Experiment20 outputs
+![image](https://user-images.githubusercontent.com/114796483/194479760-64f6d306-80a7-477e-88f1-e750ab86c051.png)
+
+## Experiment21 outputs
+![image](https://user-images.githubusercontent.com/114796483/194479859-64303cdd-d9e9-45f2-972f-e6e30d2c4aa6.png)
+![image](https://user-images.githubusercontent.com/114796483/194480073-ea765d15-2cb2-4f9a-8b98-44c390b993e2.png)
+![image](https://user-images.githubusercontent.com/114796483/194480636-0d7969ba-15c8-4433-835a-7226a4edcd19.png)
+
+## Experiment22 outputs
+![image](https://user-images.githubusercontent.com/114796483/194480745-4adf861a-4062-4f49-aec0-546162eeb8fd.png)
+![image](https://user-images.githubusercontent.com/114796483/194480758-7d2eaf96-44db-4a2d-88ae-f296493f0a9d.png)
+
+## Experiment23 outputs
+![image](https://user-images.githubusercontent.com/114796483/194480819-45ec61a0-1aec-4838-b122-007bed6512d5.png)
+![image](https://user-images.githubusercontent.com/114796483/194480889-f23ae418-e8aa-4f53-bd7c-7a1d7d6bb447.png)
+
+## Experiment24 outputs
+![image](https://user-images.githubusercontent.com/114796483/194480950-d8dbd561-3029-472b-a7d6-271a2c56bf4f.png)
+![image](https://user-images.githubusercontent.com/114796483/194480973-8373fe07-5fbf-4648-bf1c-5e8ccd6b6f6f.png)
+
+## Experiment25 outputs
+![image](https://user-images.githubusercontent.com/114796483/194481042-d44b4b03-ecdf-46f3-9d17-f1217508d542.png)
+![image](https://user-images.githubusercontent.com/114796483/194481056-cb15d5d6-f660-44c8-b13a-037ac0e20ac1.png)
